@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "This is Harini"
+NAME=Harini
+CONTACT=9603143165
+
+echo "$NAME"
+echo "$CONTACT"
