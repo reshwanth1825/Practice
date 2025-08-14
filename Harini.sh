@@ -1,6 +1,6 @@
 #!/bin/bash
-NAME=Harini
-CONTACT=9603143165
+NAME=$1
+CONTACT=$2
 
 echo "$NAME"
 echo "$CONTACT"
